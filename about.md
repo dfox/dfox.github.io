@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Dave. I am Director of Technical Design at a Digital Agency
+called [Cantina](http://cantina.co). I also produce electronic music
+and am a resident DJ at Boston's longest running dance music night,
+[Elements](http://elements-dnb.com). A long time ago I made creepy
+sculptures in art school.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+
+
+
