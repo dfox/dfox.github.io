@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Fox</title>
+    <description>Software Developer, Musician, DJ, Artist
+</description>
+    <link>http://dfox.io/</link>
+    <atom:link href="http://dfox.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 22 Nov 2016 13:57:12 -0500</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2016 13:57:12 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Sculpture I Did Once</title>
+        <description>&lt;p&gt;I actually have a degree in Fine Arts from &lt;a href=&quot;http://www.massart.edu&quot;&gt;Mass Art&lt;/a&gt;.
+When I went there I concentrated on sculpture, particularly figurative
+work of the creepy variety.
+&lt;a href=&quot;/galleries/sculpture&quot;&gt;This is a gallery&lt;/a&gt; of some of the work I did
+there.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Nov 2016 13:44:00 -0500</pubDate>
+        <link>http://dfox.io/blog/2016/11/22/sculpture.html</link>
+        <guid isPermaLink="true">http://dfox.io/blog/2016/11/22/sculpture.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Putting Yourself Out There</title>
+        <description>&lt;p&gt;As long as I’ve been a software developer, I’ve yet to really put
+myself out there and create a personal website. That’s pretty rare,
+and some would say unacceptable for people in my line of work. So in
+an effort to grow a little and get over some of my
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;hesitancy&lt;/a&gt;,
+I’ve decided to put up this site.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 21 Nov 2016 14:41:10 -0500</pubDate>
+        <link>http://dfox.io/blog/2016/11/21/hello.html</link>
+        <guid isPermaLink="true">http://dfox.io/blog/2016/11/21/hello.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

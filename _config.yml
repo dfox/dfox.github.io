@@ -25,6 +25,13 @@ baseurl: ""
 #used to display twitter cards
 twitter_handle: '@d_m_fox'
 
+gallery_dir: galleries
+gallery_title_prefix: 'Gallery: '
+galleries_title: 'Image Galleries'
+galleries:
+  sculpture:
+    best_image: 'untitled-closeup.jpg'
+
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
