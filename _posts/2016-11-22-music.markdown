@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Music"
+date:   2016-11-22 17:38.34
+categories: blog
+image: /assets/images/statesmen.jpg
+---
+
+I DJ and produce electronic music as a professional hobby. I've been a resident DJ at
+[Elements](http://elements-dnb.com) for about 5 years now and perform around New England at various events. From around 2007-2012, I was a member of the group,
+The Statesmen. We had quite a few releases and also a number of unreleased tracks
+that never quite made it to a label. I've posted some of them [here](/music/).
