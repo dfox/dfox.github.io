@@ -527,6 +527,9 @@ body {
   .post .post-content img {
     max-width: 100%;
     margin: 0 auto; }
+  .post .post-content .gallery-thumb {
+    max-width: auto;
+    width: 300px; }
   .post .post-content figure {
     margin: 0;
     padding: 0 0 30px; }
