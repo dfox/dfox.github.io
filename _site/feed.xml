@@ -6,9 +6,38 @@
 </description>
     <link>http://dfox.io/</link>
     <atom:link href="http://dfox.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 30 Nov 2016 16:23:44 -0500</pubDate>
-    <lastBuildDate>Wed, 30 Nov 2016 16:23:44 -0500</lastBuildDate>
+    <pubDate>Mon, 12 Dec 2016 13:22:50 -0500</pubDate>
+    <lastBuildDate>Mon, 12 Dec 2016 13:22:50 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Nightwatch and JUnit HTTP</title>
+        <description>&lt;p&gt;I’ve been working on a greybox testing strategy for my company,
+Cantina for a while now, and I’ve written the first versions of the
+libraries to support it, one for the &lt;a href=&quot;http://junit.org/junit4/&quot;&gt;JUnit&lt;/a&gt;
+backend, and one for the &lt;a href=&quot;http://nightwatchjs.org&quot;&gt;Nightwatch&lt;/a&gt;
+frontend. You can find them here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cantinac/junit-http&quot;&gt;JUnit HTTP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cantinac/nightwatch-js-remote-assert&quot;&gt;Nightwatch Remote Assert&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ll be publishing some articles about how I arrived at this strategy
+and how to use it in the near future. Unit then, you can check out the
+in-progress
+&lt;a href=&quot;http://field-guide.cantina.co.s3-website-us-east-1.amazonaws.com/#dev-process&quot;&gt;field guide&lt;/a&gt;,
+which contains an overview of my development process which covers testing.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 12 Dec 2016 13:05:00 -0500</pubDate>
+        <link>http://dfox.io/blog/2016/12/12/junit-http-nightwatch.html</link>
+        <guid isPermaLink="true">http://dfox.io/blog/2016/12/12/junit-http-nightwatch.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Homemade V8</title>
