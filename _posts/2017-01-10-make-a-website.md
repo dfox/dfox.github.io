@@ -59,16 +59,17 @@ way back to the beginning of your site.
 
 [Github](https://github.com) is a source code management platform
 built on [Git](https://git-scm.com). It will store a copy of your site
-content and Github will use Jekyll to generate the site from them.
+content and uses Jekyll to generate the site from them.
 
 ### Cloudflare
 
-[Cloudflare](https://www.cloudflare.com) is a content delivery network
+[Cloudflare](https://www.cloudflare.com) is a
+[content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
 with security features like
 [DDOS](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 protection,
 [SSL](https://en.wikipedia.org/wiki/Transport_Layer_Security) and
-more. For large sites, these features are a nessesity on todays
+more. For large sites, these features are a nessesity on today's
 internet, but the company also provides them free of charge for sites
 with minimal traffic.
 
@@ -202,7 +203,16 @@ Github. You can see how I configured my settings here:
 
 ![Adding your site](/assets/article_images/2017-01-10-make-a-website/dns-records.png)
 
-### 4) Add a CNAME File to Github
+### 4) Set up nameservers
+
+At the bottom of the page you set up the DNS records on, it will list
+2 nameservers. You will need to log into your domain registrar's
+website and put the names of those servers into the area they specify
+so that traffic will be routed to Cloudflare. How this is done is
+different for every registrar, so you'll need to look up the
+information on their site or ask a support person how to do it.
+
+### 5) Add a CNAME File to Github
 
 Now, in the repository directory for your website, create a file
 called "CNAME" and in it, just put your domain name. I put
